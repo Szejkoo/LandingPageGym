@@ -1,12 +1,16 @@
 import React from "react";
 import TopNavigation from "./components/TopNavigation";
 import Home from "./components/Home";
+import Advantages from "./components/Advantages";
 
-function App() {
+const Zmienna = "Free trial session with a trainer";
+
+function App(props) {
   return (
     <>
       <TopNavigation />
-      <Home />
+      <Home text={Zmienna} />
+      <Advantages />
     </>
   );
 }
