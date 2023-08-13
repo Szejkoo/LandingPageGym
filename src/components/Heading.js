@@ -4,7 +4,7 @@ import { styled } from "styled-components";
 function Heading(props) {
   const Title = styled.h1`
     display: inline-block;
-    margin: 100px auto 0;
+    margin: 150px auto 50px;
     color: #fff;
     font-family: "Rubik", sans-serif;
     font-size: 28px;

@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Rubik:wght@300;400;500;600;700&display=swap");
-
 /* * {
   border: 1px solid tomato;
 } */
@@ -17,4 +16,8 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.swiper {
+  margin-left: 0;
+  margin-right: 0;
 }

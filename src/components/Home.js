@@ -39,6 +39,7 @@ function Home(props) {
     font-weight: 800;
     font-family: "Rubik", sans-serif;
     background-color: #faff00;
+    color: black;
     z-index: 12;
   `;
   const Img = styled.img`
