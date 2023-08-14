@@ -27,7 +27,7 @@ function Carousel(props) {
         <SwiperSlide>
           <Cards
             title="Pass ‘Trial’ "
-            price="$ 0"
+            price="Free"
             offerOne="Access to the gym from 8:00 to 14:00"
             offerTwo="The trainer on duty will introduce you to the gym"
           />

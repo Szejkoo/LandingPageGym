@@ -1,9 +1,8 @@
 import React from "react";
 import { styled } from "styled-components";
 import Heading from "../Heading";
-import Carousel from "./Carousel";
 
-function Membership() {
+function Trainsers() {
   const Pass = styled.div`
     display: flex;
     flex-direction: column;
@@ -13,11 +12,10 @@ function Membership() {
   return (
     <>
       <Pass>
-        <Heading item="Gym membership" />
-        <Carousel />
+        <Heading item="Trainers staff" />
       </Pass>
     </>
   );
 }
 
-export default Membership;
+export default Trainsers;
