@@ -5,6 +5,7 @@ import Advantages from "./components/Advantages";
 import Membership from "./components/Offers/Membership";
 import About from "./components/About/About";
 import Trainsers from "./components/Trainers/Trainsers";
+import Footer from "./components/Footer/Footer";
 const Zmienna = "Free trial session with a trainer";
 
 function App(props) {
@@ -16,6 +17,7 @@ function App(props) {
       <Membership />
       <About />
       <Trainsers />
+      <Footer />
     </>
   );
 }

@@ -7,7 +7,6 @@ function About() {
   const Box = styled.div`
     display: flex;
     flex-direction: column;
-    height: 210vw;
     width: 100vw;
     background-color: #000;
   `;

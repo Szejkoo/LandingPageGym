@@ -11,7 +11,6 @@ function Advantages(props) {
   const AdvantagesBox = styled.div`
     display: flex;
     flex-direction: column;
-    height: 190vw;
     width: 100vw;
     background-color: #000;
   `;

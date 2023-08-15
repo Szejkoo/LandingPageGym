@@ -1,6 +1,7 @@
 import React from "react";
 import { styled } from "styled-components";
 import Heading from "../Heading";
+import Carousel from "./Carousel";
 
 function Trainsers() {
   const Pass = styled.div`
@@ -13,6 +14,7 @@ function Trainsers() {
     <>
       <Pass>
         <Heading item="Trainers staff" />
+        <Carousel />
       </Pass>
     </>
   );
